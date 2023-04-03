@@ -120,4 +120,4 @@ let item = "grapes";
 console.log(`Is "${item}" not in the fruits array? I predict True.`);
 
 console.log(!fruit.includes(item));
-
+export{}
